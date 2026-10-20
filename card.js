@@ -3,9 +3,9 @@
 
   const STORAGE_KEY = 'flower.greeting.20-10.v1';
   const defaultGreeting = {
-    recipient: 'bạn',
+    recipient: 'emiu',
     message: 'Nhân ngày 20/10 anh không có gì ngoài món quà nho nhỏ này gửi tặng em,mong mọi điều tót đẹp và niềm vui sẽ đến bên em,mong cho người anh yêu luôn vui tươi như những bông hoa,anh yêu em nhiều lắmmm!!!',
-    sender: 'Một người quý mến bạn'
+    sender: 'Gia Nguỹn'
   };
   const dialog = document.getElementById('greetingCard');
   const openButton = document.getElementById('openCard');
